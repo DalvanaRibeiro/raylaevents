@@ -85,6 +85,16 @@ header nav ul li a:hover {
     color: white;
     background-color: rgba(0, 0, 0, 0.5);
 }
+/* Home (Imagem de destaque) */
+.home-banner-evento {
+    background-image: url('rayla-luta-maio.jpg');
+    background-size: cover;
+    height: 300px;
+    text-align: center;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
 
 .home-banner h1 {
     font-size: 24px;
@@ -94,6 +104,19 @@ header nav ul li a:hover {
 .home-banner p {
     font-size: 16px;
 }
+/* seção Batalha */
+.batalha {
+    padding: 20px;
+    background-color: #181818;
+    text-align: center;
+}
+
+.batalha h2 {
+    font-size: 22px;
+    margin-bottom: 20px;
+    color: #f1c40f;
+}
+
 
 /* Seção Sobre */
 .sobre {
@@ -112,6 +135,7 @@ header nav ul li a:hover {
     font-size: 16px;
     line-height: 1.6;
 }
+
 
 /* Seção Conquistas */
 .conquistas {

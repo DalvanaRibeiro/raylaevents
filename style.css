@@ -59,7 +59,7 @@ header nav ul {
     align-items: center;
     font-size: 18px;
     margin-top: 0; /* tirar o espaçamento vertical */
-    gap: 20px; /* espaçamento horizontal entre itens */
+    gap: 15px; /* espaçamento horizontal entre itens */
 }
 
 header nav ul li {

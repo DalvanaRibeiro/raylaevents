@@ -99,6 +99,18 @@ header nav ul li a:hover {
 }
 /* seção Batalha */
 /* seção Batalha */
+/*.batalha {
+    padding: 20px;
+    background-color: #181818;
+    text-align: center;
+    background-image: url('rayla-luta-maio.jpg');
+        background-size: cover;
+        height: 1000px;
+        text-align: center;
+        color: white;
+        background-color: rgba(0, 0, 0, 0.5);
+  
+}*/
 .batalha {
     padding: 20px;
     background-color: #181818;

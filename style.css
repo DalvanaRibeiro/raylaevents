@@ -105,16 +105,19 @@ header nav ul li a:hover {
     font-size: 16px;
 }
 /* seção Batalha */
+/* seção Batalha */
 .batalha {
     padding: 20px;
     background-color: #181818;
     text-align: center;
 }
 
+
 .batalha h2 {
     font-size: 22px;
     margin-bottom: 20px;
     color: #f1c40f;
+   
 }
 
 
